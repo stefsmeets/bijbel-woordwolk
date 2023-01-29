@@ -1,0 +1,4 @@
+wordcloud
+spacy
+matplotlib
+pandas
